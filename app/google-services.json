@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090287077005",
+    "firebase_url": "https://storge-dcb77-default-rtdb.firebaseio.com",
+    "project_id": "storge-dcb77",
+    "storage_bucket": "storge-dcb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090287077005:android:c2778e2753e0c897c784c4",
+        "android_client_info": {
+          "package_name": "com.example.fb_storge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090287077005-ddqvfd68l73tl5vjbrko8sf4041qc3gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsKZC_-EsUlWP43ff4r5cs-TpV9z3jNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090287077005-ddqvfd68l73tl5vjbrko8sf4041qc3gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
